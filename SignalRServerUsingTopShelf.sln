@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRServerUsingTopShelf", "SignalRServerUsingTopShelf\SignalRServerUsingTopShelf.csproj", "{AB08F5B5-61F4-48FC-BB1A-6F536C5AC8B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageSender", "MessageSender\MessageSender.csproj", "{135CBEE0-0273-4548-AC79-A728EA7A09FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageReceiver", "MessageReceiver\MessageReceiver.csproj", "{AF4C79DE-68A5-40E4-A79E-4354128B88CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB08F5B5-61F4-48FC-BB1A-6F536C5AC8B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB08F5B5-61F4-48FC-BB1A-6F536C5AC8B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB08F5B5-61F4-48FC-BB1A-6F536C5AC8B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB08F5B5-61F4-48FC-BB1A-6F536C5AC8B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{135CBEE0-0273-4548-AC79-A728EA7A09FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{135CBEE0-0273-4548-AC79-A728EA7A09FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{135CBEE0-0273-4548-AC79-A728EA7A09FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{135CBEE0-0273-4548-AC79-A728EA7A09FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF4C79DE-68A5-40E4-A79E-4354128B88CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF4C79DE-68A5-40E4-A79E-4354128B88CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF4C79DE-68A5-40E4-A79E-4354128B88CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF4C79DE-68A5-40E4-A79E-4354128B88CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

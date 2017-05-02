@@ -1,0 +1,7 @@
+SignalRServerUsingTopShelf/bin/
+MessageSender/bin/
+MessageSender/obj/
+SignalRServerUsingTopShelf/obj/
+packages/
+MessageReceiver/bin/
+MessageReceiver/obj/
